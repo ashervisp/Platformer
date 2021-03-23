@@ -1,0 +1,22 @@
+html,body{
+  margin:0;
+  height:100%;
+
+  background-size:cover;
+}
+
+#gui{
+  color:black;
+  background-color:grey;
+  height:30%;
+}
+
+#myCanvas{
+  margin:0;
+  width:100%;
+  background-color:blue;
+  height:70%;
+  background-repeat:no-repeat;
+  background-image:url('platformer.png');
+  background-size:cover;
+}
